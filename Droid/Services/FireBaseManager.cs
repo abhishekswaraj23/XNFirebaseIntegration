@@ -45,7 +45,7 @@ namespace XNFireBasePOC.Droid.Services
             try
             {
                 string email = "abhishekswaraj23@gmail.com";
-                string password = "Igotit123";
+                string password = "";
 
                 var user = await mAuth.SignInWithEmailAndPasswordAsync(email, password);
                 var token = await user.User.GetIdTokenAsync(false);
