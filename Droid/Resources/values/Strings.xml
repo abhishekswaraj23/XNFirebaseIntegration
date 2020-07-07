@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">XNFireBasePOC.Droid</string>
+    <string name="facebook_app_id">953809535071295</string>
+    <string name="fb_login_protocol_scheme">fb953809535071295</string>
+
+</resources>
